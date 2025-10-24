@@ -1,30 +1,33 @@
-# 👋 Ciao, sono Tobia Viola Romanese
 
-🎓 Studente di Informatica all’Università degli studi di Udine  
-💻 Appassionato di tecnologia, elettronica e sviluppo software  
-🔧 I miei lavori principali consistono in piccoli progetti universitari, progetti con arduino (macropad e macchina cocktail) e una mobile app CrossPlatform IOs/Android  
-🌱 Attualmente approfondisco OOP, C++ e Rust
+# 👋 Hi, I’m Tobia Viola Romanese
 
----
-
-### 🧩 Progetti in evidenza
-
-- 💡 [Macchina per cocktail automatizzata](https://github.com/Aibot-19/cocktail-machine)  
-  Progetto IoT basato su Arduino UNO con controllo tramite GUI Python (Tkinter).
-
-- ⌨️ [Macropad personalizzato](https://github.com/Aibot-19/macropad)  
-  Tastiera personalizzata con Arduino Pro Micro e libreria HID-Project.
-
-- 📱 [Spotted App (in sviluppo)](https://github.com/Aibot-19/spotted)  
-  Applicazione cross-platform in React Native + Firebase, con autenticazione e DB realtime.
+🎓 Computer Science Student at the University of Udine
+💻 Enthusiast of technology, electronics, and software development
+🔧 My main works consist of small university projects, Arduino projects (macropad and cocktail machine), and a cross-platform mobile app for iOS/Android
+🌱 Currently deepening my knowledge in OOP, C++, and Rust
 
 ---
 
-### 🧠 Competenze
+### 🧩 Featured Projects
+
+* 💡 [Automated Cocktail Machine](https://github.com/Aibot-19/cocktail-machine)
+  IoT project based on Arduino UNO with control via Python GUI (Tkinter).
+
+* ⌨️ [Custom Macropad](https://github.com/Aibot-19/macropad)
+  Custom keyboard with Arduino Pro Micro and HID-Project library.
+
+* 📱 [Spotted App (in development)](https://github.com/Aibot-19/spotted)
+  Cross-platform app in React Native + Firebase, with authentication and realtime DB.
+
+---
+
+### 🧠 Skills
+
 `Python` • `Java` • `TypeScript` • `React` • `Firebase` • `Git/GitHub` • `Arduino`
 
 ---
 
-### 📫 Contatti
-📧 [tobia.violaromanese@gmail.com](mailto:tobia.violaromanese@gmail.com)  
+### 📫 Contact
+
+📧 [tobia.violaromanese@gmail.com](mailto:tobia.violaromanese@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/tuo-profilo)
