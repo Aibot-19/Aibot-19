@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Ciao, sono Tobia Viola Romanese
 
-<!--
-**Aibot-19/Aibot-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Studente di Informatica all’Università degli studi di Udine  
+💻 Appassionato di tecnologia, elettronica e sviluppo software  
+🔧 I miei lavori principali consistono in piccoli progetti universitari, progetti con arduino (macropad e macchina cocktail) e una mobile app CrossPlatform IOs/Android  
+🌱 Attualmente approfondisco OOP, C++ e Rust
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧩 Progetti in evidenza
+
+- 💡 [Macchina per cocktail automatizzata](https://github.com/Aibot-19/cocktail-machine)  
+  Progetto IoT basato su Arduino UNO con controllo tramite GUI Python (Tkinter).
+
+- ⌨️ [Macropad personalizzato](https://github.com/Aibot-19/macropad)  
+  Tastiera personalizzata con Arduino Pro Micro e libreria HID-Project.
+
+- 📱 [Spotted App (in sviluppo)](https://github.com/Aibot-19/spotted)  
+  Applicazione cross-platform in React Native + Firebase, con autenticazione e DB realtime.
+
+---
+
+### 🧠 Competenze
+`Python` • `Java` • `TypeScript` • `React` • `Firebase` • `Git/GitHub` • `Arduino`
+
+---
+
+### 📫 Contatti
+📧 [tobia.violaromanese@gmail.com](mailto:tobia.violaromanese@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tuo-profilo)
