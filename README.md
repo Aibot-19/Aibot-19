@@ -1,10 +1,10 @@
 
 # 👋 Hi, I’m Tobia Viola Romanese
 
-🎓 Computer Science Student at the University of Udine
-💻 Enthusiast of technology, electronics, and software development
-🔧 My main works consist of small university projects, Arduino projects (macropad and cocktail machine), and a cross-platform mobile app for iOS/Android
-🌱 Currently deepening my knowledge in OOP, C++, and Rust
+🎓  Computer Science Student at the University of Udine
+💻  Enthusiast of technology, electronics, and software development
+🔧  My main works consist of small university projects, Arduino projects (macropad and cocktail machine), and a cross-platform mobile app for iOS/Android
+🌱  Currently deepening my knowledge in OOP, C++, and Rust
 
 ---
 
