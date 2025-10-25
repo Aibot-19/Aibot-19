@@ -16,7 +16,7 @@
 * ⌨️ [Custom Macropad](https://github.com/Aibot-19/macropad)
   Custom keyboard with Arduino Pro Micro and HID-Project library.
 
-* 📱 [Spotted App (in development)](https://github.com/Aibot-19/spotted)
+* 📱 [Spotted App (in development)](https://github.com/Nimeg22/Spotted)
   Cross-platform app in React Native + Firebase, with authentication and realtime DB.
 
 ---
