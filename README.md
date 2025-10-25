@@ -18,6 +18,9 @@
 
 * 📱 [Spotted App (in development)](https://github.com/Nimeg22/Spotted)
   Cross-platform app in React Native + Firebase, with authentication and realtime DB.
+  
+* 📝 [University Java exercises](https://github.com/Aibot-19/uni-java-exercises)
+  University Java exercises written using BlueJ.
 
 ---
 
