@@ -18,9 +18,12 @@
 
 * 📱 [Spotted App (in development)](https://github.com/Nimeg22/Spotted)
   Cross-platform app in React Native + Firebase, with authentication and realtime DB.
+  The repo is currently private due to the development process.
   
 * 📝 [University Java exercises](https://github.com/Aibot-19/uni-java-exercises)
   University Java exercises written using BlueJ.
+  [University Scheme exercises](https://github.com/Aibot-19/uni-scheme-exercises)
+  University Scheme exercises written using drRacket.
 
 ---
 
@@ -33,4 +36,4 @@
 ### 📫 Contact
 
 📧 [tobia.violaromanese@gmail.com](mailto:tobia.violaromanese@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/tuo-profilo)
+🔗 [LinkedIn](https://www.linkedin.com/in/tobia-viola-romanese-3a3756201/)
