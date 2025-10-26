@@ -17,11 +17,11 @@
   Custom keyboard with Arduino Pro Micro and HID-Project library.
 
 * 📱 [Spotted App (in development)](https://github.com/Nimeg22/Spotted)
-  Cross-platform app in React Native + Firebase, with authentication and realtime DB.
+  Cross-platform app in React Native + Firebase, with authentication and realtime DB. \
   The repo is currently private due to the development process.
   
 * 📝 [University Java exercises](https://github.com/Aibot-19/uni-java-exercises)
-  University Java exercises written using BlueJ.
+  University Java exercises written using BlueJ. \
   [University Scheme exercises](https://github.com/Aibot-19/uni-scheme-exercises)
   University Scheme exercises written using drRacket.
 
