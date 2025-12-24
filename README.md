@@ -25,7 +25,7 @@
   [University Scheme exercises](https://github.com/Aibot-19/uni-scheme-exercises)
   University Scheme exercises written using drRacket.
 
-* 🏁 [E-racing (formula student] member of Firmware & Software at [@uniuderacing](https://github.com/uniuderacing)
+* 🏁 E-racing (formula student) member of Firmware & Software at [@uniuderacing](https://github.com/uniuderacing)
 
 ---
 
